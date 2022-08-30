@@ -1,0 +1,18 @@
+<meta>
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" cache="false" />
+	<file src="Img/Bg.png" />
+	<file src="Img/1.png" />
+	<file src="Img/2.png" />
+	<file src="Img/3.png" />
+	<file src="Img/4.png" />
+	<file src="Img/5.png" />
+	<file src="Img/6.png" />
+	<file src="Img/7.png" />
+	<file src="Img/8.png" />
+	<file src="Img/9.png" />
+	<file src="Img/10.png" />
+	<file src="OnePice.mp3" />
+	<file src="War_Music.mp3" />
+	<file src="War_Music2.mp3" />
+</meta>
